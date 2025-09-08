@@ -1,6 +1,6 @@
 name = "GAP_pkg_digraphs_jll"
 uuid = "ce5c30f6-a98c-53bc-b643-089f5717f8db"
-version = "100.120000.0+0"
+version = "101.120000.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
