@@ -1,86 +1,86 @@
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "dc772ddf7b0cfad9c6d355a7b8b48551ebc55711"
+git-tree-sha1 = "406ed6b00cae574a8800abeb6af6f415971d5645"
 os = "macos"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "443640569cd44a2dd0a1929c7900356a9e0f56d49accbcd54c79aa8d9208849a"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "b07215cbd82651de4a638546065bcb789befc88a3dc6c8faffb4af878e35f080"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "1e062dc217c16977a2ca791d600810a946c3f12f"
+git-tree-sha1 = "e0149ee75601512aac85e141632d45c7c3ef511e"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "6530bd7727add67b6f08b1d2a8689ab0b076affb9ab25f9986eb74ff7ee8cb5d"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "fcf689e86d4b9b7127d764b5e4c7fdbab8db2e86e4594e51903a255b0790ec53"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "4ac6aef2b5912a0b1fde7f9011ad59d74eb4ea19"
+git-tree-sha1 = "55483431f14e574a11a8ff063ca06e577d85fed2"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "1015b516af051d82bcdd2aa9d5c6efe875941457415031aaac13668cabbf0da8"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.aarch64-linux-musl.tar.gz"
+    sha256 = "56e966d3c30d188add367a52d80c2af4e81edfc7a7b082e92dcbc275b0d644e0"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "bfb48b3bfd3cff52e0da8da96d5960646d518106"
+git-tree-sha1 = "a5e5aa5335404dcec0867faefeef669515b00138"
 os = "freebsd"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "cf110c21327ccf9b728f4b566e408c599946b8b7873e316ef3d83d64128afd9f"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "0e43a5079d7dd1c9075db0b4be27e8a8cdd2a3c7dbe1f6976c2ef87c1749d434"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "powerpc64le"
-git-tree-sha1 = "f63995ec5312ccd2d9b19334099a1bb46a720189"
+git-tree-sha1 = "bf235481c6f75ae0a31676d900d7d68661e70bdf"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "643b7ef70584dedb9d5ff75f602ccf5bc6ad96a71b8290eccee14629c58eac14"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "53bcf8a390329b76365f53c7b082668b06aad0acc63edda7ba893ffc66cbb85d"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "riscv64"
-git-tree-sha1 = "c421cae9f577e98c1ac0ce450bbfa3119ba09988"
+git-tree-sha1 = "6cee664636d68ac367d003ad1d1711b0695539f6"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "c0376da614ce9aaf33f2f24f94e06cb668136ed4ff8a4f32a4c50995dc14cce7"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "6d462a617b1e6479ef84e7802f10f5200914ace526fe5df38c7bb84018452885"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.riscv64-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "c0feda88cea36592a1a95ddfea0cc915dcd265f9"
+git-tree-sha1 = "49299408bc159aadfe03e3428aca3435d813f317"
 os = "macos"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "8d8073c3850bac25cd1a9dd58c00dabecff85cd999130d0551c4f2e70c70534e"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "1f9421fae8d1525c42100fcad09deb02033ec55e38da1b0383eb1c99d91ba369"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "c642ed66e63bdfb5000bebcd6765304157568d92"
+git-tree-sha1 = "5720e110b7daef0a9339e448ee47f05b07a51c96"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "eb43755f6a939285222cc29c69346b4113e444e22de6f3d64849ca20d1895f8d"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "4860b8f3d18d1a63fc5d4464b5e5d7e4973e0be8ca0b20379a8a610383fd260b"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "f86106485ad10cf7756263d61dd2cbc81781bd0c"
+git-tree-sha1 = "cfeed69390320aedc372fda4568cc73de4c2a295"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "17985d59db2867e5e573dc7417230490a62eb85cb6e7d21c574f5619a67edeba"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.x86_64-linux-musl.tar.gz"
+    sha256 = "1b67c5bc776f5b70c4f7af11340f488d265ec01e40517c1efe4acd2209ed16e2"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "8a0ea1abf3f2d16335a0cb8eec89f482d4308bf1"
+git-tree-sha1 = "37a10db246e02e608be59339a9ceb1c56e2ea071"
 os = "freebsd"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "5680d797a8774eba01cc4c2c025dede77d3a69496b393eec316bba839d60332a"
-    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.140000.0+0/GAP_pkg_digraphs.v101.140000.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f80fc447c7c2e25d357c8876c1778e89f91863676200e55337f15053aba5543c"
+    url = "https://github.com/lgoettgens/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v101.150000.0+0/GAP_pkg_digraphs.v101.150000.0.x86_64-unknown-freebsd.tar.gz"
